@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valon Krasniqi</h1>
 <h3 align="center">A Recent computer science graduate</h3>
 
-- 🌱 I’m currently learning **.NET, ML,**
+- 🌱 I’m currently learning **.NET, ML**
 
 - 💬 Ask me about **Python, ML, & Data Science**
 
